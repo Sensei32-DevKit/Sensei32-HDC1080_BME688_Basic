@@ -1,4 +1,4 @@
-# Sensei32: HDC1080 Sensor Read
+# Sensei32: HDC1080 and BME688 Basic Sensor Read
 
 Sensei32 is a high-quality ULP, Battery-Powered, ESP32 board with embedded environment sensors.
 
